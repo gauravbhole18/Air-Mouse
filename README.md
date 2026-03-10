@@ -37,17 +37,10 @@ The Air Mouse works by reading orientation and motion data from an **Inertial Me
 - Accessibility devices
 - Gesture-based interfaces
 
-## Repository Contents
-
-- Sensor interfacing code
-- Motion processing algorithms
-- Cursor control implementation
-- Supporting scripts and utilities
 
 ## Future Improvements
 
 - Gesture recognition (click, scroll, drag)
 - Improved filtering and drift correction
-- Wireless communication
 - Machine learning based motion classification
 
